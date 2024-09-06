@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaibhavkachiya
+- 👋 Hi, I’m @Vaibhav
 - 👀
 - 🌱 
 - 💞️ 
