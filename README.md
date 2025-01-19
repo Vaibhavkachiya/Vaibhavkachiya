@@ -1,7 +1,7 @@
 👋 Hi, I’m @Vaibhav
 name        : Vaibhav Kachiya
 located_in  : Bangalore,India
-current_job : Full Stack Developer
+current_job : Back End Developer
 
 [Self-Taught Developer]
 
