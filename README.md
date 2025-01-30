@@ -1,19 +1,11 @@
-👋 Hi, I’m @Vaibhav
-name        : Vaibhav Kachiya
-located_in  : Bangalore,India
-current_job : Back End Developer
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
 
-[Self-Taught Developer]
+👯 I’m looking to collaborate on:
+Fullstack projects
 
-fields_of_interests:
-  [
-"Programming,
-"Web Development",
-"DevOps",
-]
-technical_background:
-["Full Stack Developer"]
+🌱 I’m currently learning:
+Advanced AWS Services and Docker.
 
-currently_learning: ["Java, HTML, CSS, JavaScript,React and MySQL"]
-2025_goals:["Create 20+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Reading", "Music", "Traveling", "Cooking"]
+💬 Ask me about:
+Java, Springboot, Microservice, AWS, and any general software development questions.
